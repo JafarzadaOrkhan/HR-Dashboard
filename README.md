@@ -1,9 +1,8 @@
 HR Dashboard
 Overview
-<img width="1313" height="737" alt="HR Dashboard" src="https://github.com/user-attachments/assets/5f783bd6-608a-4995-94f9-6d064ce165e7" />
 
 This HR Dashboard provides real-time insights into key human resources metrics, such as employee performance, turnover, recruitment progress, and more. It helps HR professionals make data-driven decisions and improve workforce management.
-
+<img width="1313" height="737" alt="HR Dashboard" src="https://github.com/user-attachments/assets/5f783bd6-608a-4995-94f9-6d064ce165e7" />
 Features
 
 Employee Performance Tracking
@@ -27,7 +26,7 @@ Excel for data extraction, processing, and cleaning
 Installation
 
 Clone this repository:
-git clone https://github.com/yourusername/hr-dashboard.git
+git clone [https://github.com/yourusername/hr-dashboard.git](https://github.com/JafarzadaOrkhan/HR-Dashboard/tree/main)
 
 Open the project in Power BI / Tableau to view and customize the dashboard.
 

@@ -1,43 +1,30 @@
-HR Dashboard
-Overview
+# HR Dashboard
+<img width="1313" height="737" alt="HR Dashboard" src="https://github.com/user-attachments/assets/fc4c8b21-a9ff-407c-9726-b4712a1fc8a9" />
 
-This HR Dashboard provides real-time insights into key human resources metrics, such as employee performance, turnover, recruitment progress, and more. It helps HR professionals make data-driven decisions and improve workforce management.
-<img width="1313" height="737" alt="HR Dashboard" src="https://github.com/user-attachments/assets/5f783bd6-608a-4995-94f9-6d064ce165e7" />
-Features
+This project showcases an interactive **HR Dashboard** designed to monitor and analyze key human resources metrics in a clear and data-driven way.
 
-Employee Performance Tracking
+## Overview
+The dashboard provides a comprehensive view of workforce data, including:
+- Total Active Employees
+- Average Salary
+- Employee Distribution by Gender
+- Employee Count by Department
+- Salary Comparison Across Departments
+- Employee Distribution by Region
 
-Turnover Rate Analysis
+## Key Features
+- Interactive filters for **Department**, **Gender**, **Experience Level**, **Region**, and **Salary**
+- Visual insights into workforce structure and compensation
+- Support for data-driven HR decision-making
 
-Recruitment Progress Monitoring
+## Tools & Technologies
+- Power BI  
+- Data Modeling & DAX  
+- Interactive Dashboard Design  
 
-Employee Satisfaction Insights
+## Purpose
+This dashboard helps HR teams track employee performance, analyze salary structures, and gain insights into workforce distribution for strategic planning.
 
-Real-Time Data Visualizations
+---
 
-Customizable KPIs
-
-Technologies Used
-
-Power BI / Tableau for data visualization
-
-Excel for data extraction, processing, and cleaning
-
-Installation
-
-Clone this repository:
-git clone [https://github.com/yourusername/hr-dashboard.git](https://github.com/JafarzadaOrkhan/HR-Dashboard/tree/main)
-
-Open the project in Power BI / Tableau to view and customize the dashboard.
-
-Update the Excel data source to connect to your HR data.
-
-Usage
-
-Import HR data (employee performance, turnover, recruitment, etc.) from Excel.
-
-
-
-Customize the dashboard to reflect your organization’s specific KPIs.
-
-Use the visualizations to drive strategic HR decisions.
+⭐ Feel free to explore, fork, and share feedback!
